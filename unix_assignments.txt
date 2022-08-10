@@ -72,3 +72,49 @@ date “+%/%Training Activity”
 date “+%Training Activity”
 date “+%r”
 
+----------------------------------------------------------------------------------------------------------------------------
+Day2::
+1. Give the execute permission for the user for a file chap1
+2. Give the execute permission for user, group and others for a file add.c
+3. Remove the execute permission from user, give read permission to group and others 
+for a file aa.c
+4. Give execute permission for users for a.c, kk.c, nato and myfile using single 
+command
+5. Change the directory to root directory. Check the system directories, like bin, etc, usr 
+etc
+
+: Using Pipes and Filters:
+1: Redirect the content of the help document ls, into a file called as lsdoc.
+2: Display the content of the lsdoc page wise.
+3: Display only the first 4 lines of the lsdoc file.
+4: Display only the last 7 lines of the file lsdoc.
+5: Remove the file lsdoc.
+6: There will be B’day celebration from the friends file, find how many B’day parties will 
+be held. If two of the friends have the B’date on the same day, then we will be having 
+one party on that day.
+7: Display the lines starting with Ma, in the file friends.
+8: Display the lines starting with Ma, ending with i or ending with id, in the file friends.
+9: Print all the files and the directory files from the current directory across all the sub 
+directories, along with its path
+10: Print only the Directory files.
+11: Display the files starting with chap, along with its path.
+12: Sort the file friends in ascending order of names. 
+13: Display the contents of the file friends in uppercase letters.
+14: Store the contents of your home directory in a file called dir.
+15: From the above file dir, display the file permissions and the name of the file only.
+16: From the same dir file, store only the file names in a file called files.
+17: From the same dir file, store only the permissions of files in a file called perms.
+18: From the same dir file, store only the file sizes in a file called sizes.
+19: Display the file names, sizes and permissions from your directory in that order. 
+20: Display the number of users working on the system.
+
+ Using Process-Related Commands
+1. Find out the PID of the processes that are activated by you
+2. Find out the information about all the processes that are currently active
+3. Start a different process in the background. Find out the status of the background 
+process using the PID of the same.
+
+VI editor
+Create a file using Vi and tyep in some data
+Use navigation commands to search wrd unix and replace it with linux.
+(Try other commands for vi)
